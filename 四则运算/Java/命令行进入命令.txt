@@ -1,0 +1,6 @@
+cd C:\Users\55353\Desktop\四则运算\Java
+f:
+cd F:\备份\结队作业\四则运算\Java
+javac Algorithm.java Fraction_creator.java Integer_creator.java Judge.java Problems.java Problems_creator.java Operation_Main.java
+java Operation_Main
+
